@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Dadasaheb Lawand</h1>
 <h3 align="center">I'm currently studying as an undergraduate at VIT Bhopal University. I am a Cybersecurity and Data Science enthusiast.</h3>
-<img align="right" alt="Coding" width="400" src="[https://drive.google.com/file/d/15boNDlJeIEemFiivL7oVrFuOl42a1EVG/view?usp=sharing](https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw2RJbnhxkqCcSzPSGvIE2lH&ust=1697387344166000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCNC-h-369YEDFQAAAAAdAAAAABAY)">
+<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
 
 - 🔭 I’m currently working on [Catalog App](https://github.com/adityalawand7/Catalog-App)
 
