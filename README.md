@@ -42,6 +42,11 @@ A platform focused on identifying and analyzing organizational AI usage for secu
 
 **Stack:** `Python` `Django` `Celery` `Redis` `JavaScript`
 
+🔗 Repo:  
+https://github.com/adityalawand7/ai-usage-detection
+
+---
+
 ---
 
 ### Job Portal
