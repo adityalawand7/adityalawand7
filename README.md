@@ -1,7 +1,7 @@
 <h1 align="center">Aditya Lawand</h1>
 
 <p align="center">
-  <b>[ PLACEHOLDER FOR YOUR POSITIONING STATEMENT ]</b>
+  <b> ~_~</b>
 </p>
 
 <p align="center">
