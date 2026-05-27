@@ -1,98 +1,139 @@
 <h1 align="center">Aditya Lawand</h1>
 
 <p align="center">
-  <b> ~_~</b>
+  Cybersecurity Consultant • Security Engineering • Backend Systems • AI Security
 </p>
 
 <p align="center">
-  Cybersecurity Consultant focused on Security Engineering, Backend Systems, and Security Automation
+  Building intelligent security tooling, automation systems, and AI-focused infrastructure.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-lawand-071a66205/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/aditya-lawand-071a66205/">LinkedIn</a>
+  •
   <a href="mailto:lawandaditya007@gmail.com">Email</a>
 </p>
 
 ---
 
-## About Me
+# About Me
 
-- Currently working as a **Cybersecurity Consultant**
-- Focused on **backend engineering, security automation, AI governance, and OSINT**
-- Building practical tools around **automation and scalable security workflows**
-- Interested in the intersection of **AI risk intelligence and security engineering**
-- CompTIA Security+ certified
+- Cybersecurity Consultant focused on **security engineering and backend systems**
+- Interested in **AI security, AI governance, automation, and detection engineering**
+- Building practical tools around:
+  - AI intelligence
+  - security automation
+  - scalable analysis pipelines
+  - operational security workflows
+- Strong interest in the intersection of:
+  - AI systems
+  - infrastructure
+  - cybersecurity
+  - runtime intelligence
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### AI Surface Mapper
-A platform focused on identifying and analyzing organizational AI usage for security and governance assessments.
+## AI Usage Detection Engine
 
-#### Current Capabilities
-- Domain-based AI usage discovery
-- Automated AI footprint analysis
-- AI service identification pipelines
+An intelligence platform that analyzes organizations to determine how they adopt and operationalize Artificial Intelligence.
 
-#### Planned Features
-- 10-K and public filing analysis
-- AI governance intelligence workflows
-- Risk-oriented reporting
+### Core Capabilities
 
-**Stack:** `Python` `Django` `Celery` `Redis` `JavaScript`
+- Dynamic website crawling using Playwright
+- Semantic AI detection using transformer embeddings
+- Technical AI fingerprinting
+- Runtime behavioral analysis
+- Organizational AI classification
+- Async distributed processing with Celery + Redis
+- False-positive reduction through reasoning logic
 
-🔗 Repo:  
+### Organizational Classification
+
+- AI-Native
+- AI Product Company
+- AI Governance / Advisory
+- AI-Enabled Enterprise
+- AI Research Organization
+
+### Stack
+
+`Python` `Django` `Celery` `Redis` `Playwright`
+`Sentence Transformers` `Docker` `JavaScript`
+
+🔗 Repository  
 https://github.com/adityalawand7/ai-usage-detection
 
 ---
 
----
+## Job Portal
 
-### Job Portal
-A clean and lightweight job portal application focused on usability and simplicity instead of unnecessary complexity.
+A lightweight Django-based job portal focused on simplicity, clean architecture, and usability.
 
-**Stack:** `Python` `Django` `SQLite`
+### Features
 
-🔗 Repo:  
+- Authentication system
+- Job posting workflows
+- Search and filtering
+- Lightweight backend architecture
+
+### Stack
+
+`Python` `Django` `SQLite`
+
+🔗 Repository  
 https://github.com/adityalawand7/jobportal
 
 ---
 
-## Tech Stack
+# Technical Skills
 
-### Languages
+## Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,sql,bash" />
 </p>
 
-### Backend & Automation
+## Backend & Infrastructure
+
 <p>
-  <img src="https://skillicons.dev/icons?i=django,postgres,redis,docker" />
+  <img src="https://skillicons.dev/icons?i=django,postgres,redis,docker,linux" />
 </p>
 
-### Security & Infrastructure
+## Security & Tooling
+
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,bash" />
+  <img src="https://skillicons.dev/icons?i=git,vscode" />
 </p>
 
 ---
 
-## Certifications
+# Certifications
 
 - CompTIA Security+
 - Certified AI/ML Pentester (C-AI/MLPen)
 
 ---
 
-## Conferences
+# Conferences & Events
 
 - CSA Bangalore Annual Summit 2025
 - AWS Summit Bangalore 2026
 
 ---
 
+# Current Focus
+
+- AI infrastructure intelligence
+- Detection engineering
+- Backend platform development
+- Security automation
+- AI governance workflows
+- Scalable analysis systems
+
+---
 
 <p align="center">
-  <i>Building secure, scalable, and automation-focused systems.</i>
+  <i>Building intelligent, secure, and automation-focused systems.</i>
 </p>
