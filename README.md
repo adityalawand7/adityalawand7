@@ -92,7 +92,7 @@ https://github.com/adityalawand7/jobportal
 ## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,sql,bash" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,mysql,bash" />
 </p>
 
 ## Backend & Infrastructure
