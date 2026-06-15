@@ -1,7 +1,7 @@
 <h1 align="center">Aditya Lawand</h1>
 
 <p align="center">
-  Cybersecurity Consultant • Security Engineering • Backend Systems • AI Security
+  Development • Security Engineering • Backend Systems • AI Security
 </p>
 
 <p align="center">
@@ -26,6 +26,7 @@
   - scalable analysis pipelines
   - operational security workflows
 - Strong interest in the intersection of:
+  - Software Engineering
   - AI systems
   - infrastructure
   - cybersecurity
